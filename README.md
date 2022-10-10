@@ -1,6 +1,8 @@
 # Sample using Spork in Rails
 
-See: https://github.com/sporkrb/spork
+Spork is a test server for use with Rails but it does its own thing. Not sure how useful this information is at this point. Archiving it in case it still has some value in the future.
+
+See the [Spork](https://github.com/sporkrb/spork) repo for more information on spork itself.
 
 ## Installation
 
